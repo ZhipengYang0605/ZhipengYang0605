@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 🌟 嗨，我是 [zekeyang]！一位热爱创造的前端工程师
+# 🌟 嗨，我是zekeyang！一位热爱创造的前端工程师
 ![](https://komarev.com/ghpvc/?username=zekeyang&color=blueviolet)
 
 ```javascript
@@ -40,4 +40,4 @@ function aboutMe(): string {
 }
 ```
 
-⭐️ 来自 [zekeyang]
+⭐️ 来自zekeyang
